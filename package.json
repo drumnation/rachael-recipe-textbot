@@ -1,0 +1,20 @@
+{
+  "name": "rachael-recipe-textbot",
+  "version": "1.0.0",
+  "description": "text the bot, get a recipe",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/drumnation/rachael-recipe-textbot.git"
+  },
+  "author": "david mieloch",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/drumnation/rachael-recipe-textbot/issues"
+  },
+  "homepage": "https://github.com/drumnation/rachael-recipe-textbot#readme",
+  "dependencies": {}
+}
